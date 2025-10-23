@@ -53,7 +53,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-* Deployed on Vercel: `[ADD_YOUR_DEPLOYED_URL_HERE]`
+* Deployed on Vercel: (https://react-js-jsx-and-css-mastering-front-end-development-atp0njno4.vercel.app)
 
 ### Deployment Steps
 
