@@ -45,9 +45,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-| Mobile                                 | Tablet                                 | Desktop                                  |
-| -------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| ![mobile](docs/screenshots/mobile.png) | ![tablet](docs/screenshots/tablet.png) | ![desktop](docs/screenshots/desktop.png) |
+|  Desktop                                  |
+|  ---------------------------------------- |
+|  ![desktop](docs/screenshots/desktop.png) |
 
 > Replace these placeholders with actual screenshots of your app.
 
@@ -84,4 +84,3 @@ npm run dev
 
 ---
 
-This README is now fully submission-ready. Fill in the screenshots and deployed URL before pushing your repository to GitHub Classroom.
