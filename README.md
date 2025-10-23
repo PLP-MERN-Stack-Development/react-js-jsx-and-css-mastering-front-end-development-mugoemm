@@ -47,7 +47,7 @@ npm run dev
 
 |  Desktop                                  |
 |  ---------------------------------------- |
-|  ![desktop]([docs/screenshots/desktop.png](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-mugoemm/blob/main/screenshorts/home.PNG)) |
+|  https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-mugoemm/blob/main/screenshorts/home.PNG
 
 > Replace these placeholders with actual screenshots of your app.
 
